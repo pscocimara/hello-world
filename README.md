@@ -1,1 +1,1 @@
-# hello-world is my first Github file drawn from the Read the Guide tutorial on the Github home page.
+# hello-world is my first Github Repo. I used the "Read the Guide" tutorial on the Github home page to make this Repo.
